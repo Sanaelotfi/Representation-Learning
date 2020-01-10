@@ -1,8 +1,8 @@
-# IFT6135: Representation Learning, third assignement.
+# IFT6135: Representation Learning, third assignment.
 
 ## Description
 
-This is the third assignement of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
+This is the third assignment of the [IFT6135: Representation-Learning](https://sites.google.com/mila.quebec/ift6135), taught by Prof. [Aaron Courville](https://mila.quebec/en/person/aaron-courville/).
 
 ## Theory
 
@@ -11,7 +11,7 @@ Variational autoencoders (VAEs, Questions 1-3), autoregressive models (Question 
 
 ## Practice
 
-Generative models : [Statement](https://github.com/Sanaelotfi/Representation-Learning-HW3/blob/master/HW3_practice_statement.pdf).
+Generative models: [Statement](https://github.com/Sanaelotfi/Representation-Learning-HW3/blob/master/HW3_practice_statement.pdf).
 
 This is a joint work with Abderrahim Khalifa, Yann Bouteiller and Amine Bellahsen. 
 
